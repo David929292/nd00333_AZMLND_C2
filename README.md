@@ -114,6 +114,10 @@ Thereafter the trained model is deployed and published.
 - Or one might make use of easy-to-digest UI AZ ML offers via AZ ML Studio:
 ![Endpoint](starter_files/Screenshots/13_ML-Studio.PNG)
 
+
+- The published, that is made accisble via REST API, pipeline can then be accessed using the following information:
+
+![Endpoint](starter_files/Screenshots/published-pipe.PNG)
 ## Further improvements
 - To further improve upon the project, one might take a closer look at the classification itself. Class imbalance is an issue to be sorted, for one. Furthermore, using deep learning inspired classification methods in order to increase accuracy might be worth the effort.
 
